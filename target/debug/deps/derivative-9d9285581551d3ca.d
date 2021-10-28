@@ -1,0 +1,16 @@
+/home/john/solana/solana-dex/target/debug/deps/libderivative-9d9285581551d3ca.so: /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/lib.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/ast.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/attr.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/bound.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/clone.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/cmp.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/debug.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/default.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/hash.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/matcher.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/paths.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/utils.rs
+
+/home/john/solana/solana-dex/target/debug/deps/derivative-9d9285581551d3ca.d: /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/lib.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/ast.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/attr.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/bound.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/clone.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/cmp.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/debug.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/default.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/hash.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/matcher.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/paths.rs /home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/utils.rs
+
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/lib.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/ast.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/attr.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/bound.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/clone.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/cmp.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/debug.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/default.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/hash.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/matcher.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/paths.rs:
+/home/john/.cargo/registry/src/github.com-1ecc6299db9ec823/derivative-2.2.0/src/utils.rs:
